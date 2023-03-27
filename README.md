@@ -24,8 +24,9 @@ Print the rotated lis
 
 ## Step 6:
 End the program
+```
 
-Program:
+## Program:
 #Developed by: Karthikeyan R
 #RegisterNumber:212222240045
 def circulate():
@@ -33,7 +34,7 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
-```
+
 
 ## OUTPUT:
 ![output](./227723044-809bd693-5c8b-4fb5-8cde-890a9ab67f88.png)
